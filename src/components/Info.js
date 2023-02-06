@@ -6,7 +6,7 @@ export default function Info(){
   return (
     <div>
         <header>
-
+            <img src={logo} alt="me" />
             <h1>Shwetank Mishra</h1>
             <h2>Learnt react from freecodecamp.org</h2>
             
