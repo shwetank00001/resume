@@ -8,6 +8,7 @@ body {
   background-size: 400% 400%;
   position: relative;
   animation: rgb 10s ease-in-out infinite;
+ 
 }
 @keyframes rgb {
   0%{
@@ -73,7 +74,8 @@ button{
 
 .about{
   color: white;
-  padding: 50px;
+  padding-left: 10%;
+  padding-top: 10%;
   margin: 40px;
 }
 
@@ -81,6 +83,7 @@ button{
   color: white;
   padding: 50px;
   margin: 40px;
+  padding-left: 10%;
 }
 
 
@@ -89,6 +92,7 @@ button{
     color: white;
     padding: 50px;
     margin: 40px;
+    padding-left: 10%;
  
   
 }
@@ -107,7 +111,8 @@ button{
 
  .resume{
   color: white;
-  padding: 50px;
+  padding-left: 10%;
+  padding-top: 10%;
   margin: 40px;
 
  }

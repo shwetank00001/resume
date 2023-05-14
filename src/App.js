@@ -13,7 +13,7 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <div>
-        <Info /> 
+        {/* <Info />  */}
         <About />
         <Interests/>
         <Project/>
