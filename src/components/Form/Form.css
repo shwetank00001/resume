@@ -1,0 +1,35 @@
+.form{
+    color: white;
+    padding: 50px;
+    margin: 40px;
+  }
+  
+  /* .form-tag{
+    display: flex;
+    justify-content: space-evenly;
+  } */
+  
+  .form-tag > input, textarea {
+    background-color: #161619;
+    color: white;
+    font-family: inter;
+    border: 2px solid black;
+    width: 250px;
+    margin-top: 15px;
+  }
+  
+  .form-tag button {
+    border-radius: 5px;
+    padding: 5px;
+    font-size: small;
+    background-color: #161619;
+    color: white;
+    font-family: inter;
+  }
+  .form-tag button:hover{
+    background-color: #524a54;
+    color: white;
+    transition-duration: 0.4s;
+  }
+  
+  
